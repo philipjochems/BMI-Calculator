@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="bmi_api">BMI API</string>
+    <string name="e_height">Enter height:</string>
+    <string name="e_weight">Enter weight:</string   >
+
+</resources>
